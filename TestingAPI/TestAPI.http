@@ -1,0 +1,9 @@
+@URL=http://localhost:8080/api 
+// Use Advanced REST Client Or Postman
+// ==================== Photos =============================
+
+// ..../getImage/{fileName}
+// ..../postImage
+
+
+
